@@ -1,0 +1,151 @@
+p {
+    padding:10px;
+}
+
+.p1 {
+    padding: 10px 0 0 10px;
+    width:167px;
+    height:30px;
+    margin-left:10px;
+    border-top:solid;
+    border-top-width:1px;
+    border-color:#E0E0E0;
+    color:#63666A;
+}
+
+.p2 {
+    padding: 10px 0 0 10px;
+    margin-left:10px;
+   color:#63666A;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:link {
+    color: #63666A;
+}
+
+a:visited {
+    color: #63666A;
+}
+
+a:hover {
+    color:#CC5500;
+}
+
+a:active {
+    color:#CC5500;
+}
+
+h0 {
+    padding: 15px 10px 10px 10px;
+}
+
+h1 {
+    padding: 15px 10px 10px 20px;
+}
+
+h2 {
+    letter-spacing:2px;
+    font-size:18px;    
+    font-family:Georgia;
+    font-weight:100;
+    font-style:italic;
+    color: white;
+    background: rgba(0,0,0,0.7);
+    width:175px;
+    position: absolute;
+    top: 214px;
+    padding: 5px 5px 5px 10px;
+}
+
+
+.bar {
+    background:#CC5500;
+    height:30px;
+    width:1024px;
+}
+
+.bar1 {
+    background:#E0E0E0;
+    width:197px;
+    height:7px;
+    float:left;
+}
+
+.bar2 {
+    background:#CC5500;
+    height:64px;
+    width:197px;
+    float:left;
+    margin: 7px -197px -14px;
+}
+
+.bar3 {
+    background:#E0E0E0;
+    float:left;
+    height:71px;
+    width:7px;
+    margin: 0px auto -14px;
+    padding-left:197px;
+}
+
+.header {
+    width: 1024px;
+    height: 70px;
+    background:#FFFFFF;
+    color:#CC5500;
+    margin: -21px auto -14px;
+}
+
+.UTMark {
+    width: 100px;
+    height: 50px;
+    float:right;
+    margin: 10px;
+}
+
+body {
+    width: 1024px;
+    background:#E0E0E0;
+    margin: 4px auto 0px;
+}
+
+.left1 {
+    width:197px;
+    height:611px;
+    background:#FFF;
+    margin-top:-56px;
+    margin-left:-204px;
+    float:left;
+}
+
+.main1 {
+    width:820px;
+    height:535px;
+    background:#FFF;
+    margin-top: 20px;
+    margin-left: 204px;
+}
+
+.department {
+   float:left;
+   position:relative;
+   height:250px;
+   width:190px;
+   padding:10px 5px 0px 5px;
+}
+
+.img1 {
+    height: 250px;
+    width: 190px;
+}
+
+#astronomy {
+    background:url('ast.jpg');
+    width:190px;
+    height:250px;
+    padding:10px;
+}
